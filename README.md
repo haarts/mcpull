@@ -11,7 +11,9 @@ rights. Keep it secret.
 
 ## Install
 
-git clone git@github.com:haarts/mcpull.git
+```
+$ git clone git@github.com:haarts/mcpull.git
+```
 
 ## Run
 
