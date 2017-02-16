@@ -1,3 +1,6 @@
+*DEPRECATED* Use [github.com/pulls](https://github.com/pulls) and the search
+parameter `user:your-organization`. I wish my colleague told me before. :)
+
 Show the open pull requests of your organisation
 
 ## Dependencies
